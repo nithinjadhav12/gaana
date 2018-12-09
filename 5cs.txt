@@ -1,0 +1,8 @@
+ad{display:block;}
+label{font-weight:bold;color:blue;}
+usn{font-size:14pt;color:red;}
+name{font-size:14pt;color:red;}
+college{font-size:14pt;color:red;}
+branch{font-size:14pt;color:red;}
+year{font-size:14pt;color:red;}
+email{font-size:14pt;color:red;}
